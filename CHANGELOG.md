@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/juliabeam/greetings-ci/compare/v0.6.0...v0.7.0) (2024-02-06)
+
+
+### Features
+
+* add workflow dispatch ([a5defdb](https://github.com/juliabeam/greetings-ci/commit/a5defdba5b7d9f6f441c58d6cdfe1c67f6ce1508))
+
+
+
 # [0.6.0](https://github.com/juliabeam/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-06)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * upload artifact 2 ([c8233af](https://github.com/juliabeam/greetings-ci/commit/c8233afbcea242690c185c5d66e53bee85a3ef9c))
-
-
-
-# [0.2.0](https://github.com/juliabeam/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
-
-
-### Features
-
-* upload artifact ([1da97b1](https://github.com/juliabeam/greetings-ci/commit/1da97b10c4e5f1b2adc2af0867aa9c03c867a87b))
 
 
 
