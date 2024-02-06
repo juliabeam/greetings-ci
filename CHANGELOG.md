@@ -1,3 +1,12 @@
+## [0.7.1](https://github.com/juliabeam/greetings-ci/compare/v0.7.0...v0.7.1) (2024-02-06)
+
+
+### Bug Fixes
+
+* trying to fix indentation ([dcea83e](https://github.com/juliabeam/greetings-ci/commit/dcea83ea299e626871036ae8c4193dc329ab0096))
+
+
+
 # [0.7.0](https://github.com/juliabeam/greetings-ci/compare/v0.6.0...v0.7.0) (2024-02-06)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * version artifact ([8e4f88f](https://github.com/juliabeam/greetings-ci/commit/8e4f88f9f41eb517cbebc6e7bf3244376e07ec19))
-
-
-
-# [0.3.0](https://github.com/juliabeam/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
-
-
-### Features
-
-* upload artifact 2 ([c8233af](https://github.com/juliabeam/greetings-ci/commit/c8233afbcea242690c185c5d66e53bee85a3ef9c))
 
 
 
