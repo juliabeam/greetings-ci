@@ -1,3 +1,12 @@
+# [0.8.0](https://github.com/juliabeam/greetings-ci/compare/v0.7.2...v0.8.0) (2024-02-07)
+
+
+### Features
+
+* create failure message ([1e52112](https://github.com/juliabeam/greetings-ci/commit/1e5211215e6bf6d01421e7c11643fe0fb7de9fc4))
+
+
+
 ## [0.7.2](https://github.com/juliabeam/greetings-ci/compare/v0.7.1...v0.7.2) (2024-02-07)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add testing to pipeline 2 ([e1e1da4](https://github.com/juliabeam/greetings-ci/commit/e1e1da49c12a6a84b70cec2949b10ea8372ce88c))
-
-
-
-# [0.5.0](https://github.com/juliabeam/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-06)
-
-
-### Features
-
-* add testing to pipeline ([d2d29a6](https://github.com/juliabeam/greetings-ci/commit/d2d29a6b3489565ae56ae25445599db456f70177))
 
 
 
