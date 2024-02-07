@@ -1,3 +1,12 @@
+## [0.10.1](https://github.com/juliabeam/greetings-ci/compare/v0.10.0...v0.10.1) (2024-02-07)
+
+
+### Bug Fixes
+
+* update to greetin gfor blue ([856271b](https://github.com/juliabeam/greetings-ci/commit/856271bc637f1e063267b2c8038a5994df7ec4e7))
+
+
+
 # [0.10.0](https://github.com/juliabeam/greetings-ci/compare/v0.9.0...v0.10.0) (2024-02-07)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * create failure message ([1e52112](https://github.com/juliabeam/greetings-ci/commit/1e5211215e6bf6d01421e7c11643fe0fb7de9fc4))
-
-
-
-## [0.7.2](https://github.com/juliabeam/greetings-ci/compare/v0.7.1...v0.7.2) (2024-02-07)
-
-
-### Bug Fixes
-
-* events to event ([b7b3fde](https://github.com/juliabeam/greetings-ci/commit/b7b3fde9ad32bb58beda27b0d12c6162a2aff27a))
 
 
 
