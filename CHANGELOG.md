@@ -1,3 +1,12 @@
+## [0.7.2](https://github.com/juliabeam/greetings-ci/compare/v0.7.1...v0.7.2) (2024-02-07)
+
+
+### Bug Fixes
+
+* events to event ([b7b3fde](https://github.com/juliabeam/greetings-ci/commit/b7b3fde9ad32bb58beda27b0d12c6162a2aff27a))
+
+
+
 ## [0.7.1](https://github.com/juliabeam/greetings-ci/compare/v0.7.0...v0.7.1) (2024-02-06)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add testing to pipeline ([d2d29a6](https://github.com/juliabeam/greetings-ci/commit/d2d29a6b3489565ae56ae25445599db456f70177))
-
-
-
-# [0.4.0](https://github.com/juliabeam/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-06)
-
-
-### Features
-
-* version artifact ([8e4f88f](https://github.com/juliabeam/greetings-ci/commit/8e4f88f9f41eb517cbebc6e7bf3244376e07ec19))
 
 
 
